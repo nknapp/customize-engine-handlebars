@@ -50,7 +50,7 @@
     "trace-and-clarify-if-possible": "^1.0.0"
   },
   "peerDependencies": {
-    "customize": "^1.0.0"
+    "customize": "^2.0.0"
   },
   "standard": {
     "ignore": [

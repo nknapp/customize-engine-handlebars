@@ -25,7 +25,7 @@
     "version": "thoughtful changelog -o -a && npm run thought"
   },
   "dependencies": {
-    "debug": "^2.6.8",
+    "debug": "^3.0.0",
     "deep-aplus": "^1.0.4",
     "handlebars": "^4.0.10",
     "handlebars-source-locators": "^1.0.0",
